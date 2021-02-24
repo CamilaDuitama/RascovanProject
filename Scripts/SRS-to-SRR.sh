@@ -1,4 +1,4 @@
-#!/usr/sbin/bash
+#!/usr/bin/bash
 
 x=$(esearch -db sra -query $1 | efetch -format runinfo | cut -d ',' -f 1 | grep SRR)
 
