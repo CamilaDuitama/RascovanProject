@@ -4,6 +4,7 @@ library(readr)
 #Get all SRS codes from the AncientMetagenomeDir of Ancient Metagenomes
 file<-getURL("https://raw.githubusercontent.com/SPAAM-community/AncientMetagenomeDir/master/ancientmetagenome-hostassociated/ancientmetagenome-hostassociated.tsv")
 aMetagenomes<-read_tsv(file)
+write.table(x=aMetagenomes,"aMetagenomes.txt", sep="\t")
 dummie<-aMetagenomes[aMetagenomes$archive=="SRA",]$archive_accession
 SRS_aMetagenomes<-list()
 for (i in dummie){
