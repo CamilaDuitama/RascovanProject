@@ -1,9 +1,14 @@
 #!/bin/bash
 while read -r line ;do
- 	if [ -f $2$line"_2.fastq.gz" ]; then
-                 echo $line : $2$line"_1.fastq.gz ;"$2$line"_2.fastq.gz"
+	accession=${line}
+	if [[ $line == "\""* ]]; then
+		accession=$(echo $line | cut -d'"' -f 2)
+	fi
+
+	if [ -f $2$accession"_2.fastq.gz" ]; then
+                 echo $accession : $2$accession"_1.fastq.gz ;"$2$accession"_2.fastq.gz"
          else
-                 echo $line : $2$line".fastq.gz"
+                 echo $accession : $2$accession".fastq.gz"
          fi
  done<$1
 
