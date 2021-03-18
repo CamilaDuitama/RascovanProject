@@ -51,6 +51,7 @@ write.table(x=ERR_aMetagenomes,"ERR_aMetagenomes.txt",row.names = FALSE, col.nam
 #Get all SRA codes from the AncietMetagenomeDir of Single Genomes
 file_1<-getURL("https://raw.githubusercontent.com/SPAAM-community/AncientMetagenomeDir/master/ancientsinglegenome-hostassociated/ancientsinglegenome-hostassociated.tsv")
 aSGenomes<-read_tsv(file_1)
+write.table(x=aSGenomes,"aSGenomes.txt", sep="\t")
 dummie3<-aSGenomes[aSGenomes$archive=="SRA",]$archive_accession
 SRS_aSGenomes<-list()
 for (i in dummie3){
