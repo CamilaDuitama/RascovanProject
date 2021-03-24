@@ -10,5 +10,5 @@ Bioproject PJRNA Accessions were obtained from [1]
 
 
 ## References
-1.https://www.nature.com/articles/s41597-021-00816-y
-2.https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2019.0573
+1) https://www.nature.com/articles/s41597-021-00816-y
+2) https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2019.0573
