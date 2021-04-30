@@ -1,2 +1,4 @@
 *.html filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
+Scripts/*.ipynb filter=lfs diff=lfs merge=lfs -text
+html_files/*.html filter=lfs diff=lfs merge=lfs -text
