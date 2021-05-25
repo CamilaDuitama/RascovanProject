@@ -1,626 +1,627 @@
- 8581 SRR1047998.fastq.gz
- 1600047 SRR11176627_1.fastq.gz
- 1838108 SRR11176627_2.fastq.gz
- 583587 SRR11176628_1.fastq.gz
- 693830 SRR11176628_2.fastq.gz
- 905789 SRR11176629_1.fastq.gz
- 1064215 SRR11176629_2.fastq.gz
- 728427 SRR11176630_1.fastq.gz
- 839117 SRR11176630_2.fastq.gz
- 660963 SRR11176631_1.fastq.gz
- 814327 SRR11176631_2.fastq.gz
- 406000 SRR11176632_1.fastq.gz
- 450249 SRR11176632_2.fastq.gz
- 192393 SRR11176633_1.fastq.gz
- 212736 SRR11176633_2.fastq.gz
- 454530 SRR11176634_1.fastq.gz
- 505242 SRR11176634_2.fastq.gz
- 836073 SRR11176635_1.fastq.gz
- 961179 SRR11176635_2.fastq.gz
- 802837 SRR11176636_1.fastq.gz
- 922155 SRR11176636_2.fastq.gz
- 277266 SRR11176638_1.fastq.gz
- 307539 SRR11176638_2.fastq.gz
- 926822 SRR11176639_1.fastq.gz
- 1113158 SRR11176639_2.fastq.gz
- 1253441 SRR11176640_1.fastq.gz
- 1492387 SRR11176640_2.fastq.gz
- 805864 SRR11176641_1.fastq.gz
- 972169 SRR11176641_2.fastq.gz
- 628249 SRR11176642_1.fastq.gz
- 772491 SRR11176642_2.fastq.gz
- 109502 SRR12136712_1.fastq.gz
- 106464 SRR12136712_2.fastq.gz
- 500178 SRR12136713_1.fastq.gz
- 495750 SRR12136713_2.fastq.gz
- 250174 SRR12281656.fastq.gz
- 182740 SRR12281657.fastq.gz
- 283736 SRR12281658_1.fastq.gz
- 286673 SRR12281658_2.fastq.gz
- 276301 SRR12281659_1.fastq.gz
- 278499 SRR12281659_2.fastq.gz
- 168085 SRR12281660.fastq.gz
- 169345 SRR12281661.fastq.gz
- 280751 SRR12281662_1.fastq.gz
- 281413 SRR12281662_2.fastq.gz
- 284855 SRR12281663_1.fastq.gz
- 286427 SRR12281663_2.fastq.gz
- 675035 SRR12462930_1.fastq.gz
- 694256 SRR12462930_2.fastq.gz
- 889546 SRR12462931_1.fastq.gz
- 928010 SRR12462931_2.fastq.gz
- 972778 SRR12462932_1.fastq.gz
- 1028210 SRR12462932_2.fastq.gz
- 812465 SRR12462933_1.fastq.gz
- 816773 SRR12462933_2.fastq.gz
- 705966 SRR12462934_1.fastq.gz
- 752043 SRR12462934_2.fastq.gz
- 961053 SRR12462935_1.fastq.gz
- 975607 SRR12462935_2.fastq.gz
- 852441 SRR12462936_1.fastq.gz
- 863945 SRR12462936_2.fastq.gz
- 711092 SRR12462937_1.fastq.gz
- 726288 SRR12462937_2.fastq.gz
- 2659262 SRR12462938_1.fastq.gz
- 2445594 SRR12462938_2.fastq.gz
- 582230 SRR12462939_1.fastq.gz
- 548869 SRR12462939_2.fastq.gz
- 806517 SRR12462940_1.fastq.gz
- 782304 SRR12462940_2.fastq.gz
- 1342087 SRR12462941_1.fastq.gz
- 1297741 SRR12462941_2.fastq.gz
- 2127432 SRR12462942_1.fastq.gz
- 2022418 SRR12462942_2.fastq.gz
- 622398 SRR12462943_1.fastq.gz
- 575177 SRR12462943_2.fastq.gz
- 180522 SRR12462944_1.fastq.gz
- 178175 SRR12462944_2.fastq.gz
- 911051 SRR12462945_1.fastq.gz
- 898735 SRR12462945_2.fastq.gz
- 772781 SRR12462946_1.fastq.gz
- 832994 SRR12462946_2.fastq.gz
- 1028295 SRR12462947_1.fastq.gz
- 1075253 SRR12462947_2.fastq.gz
- 218411 SRR12557006_1.fastq.gz
- 230616 SRR12557006_2.fastq.gz
- 315605 SRR12557007_1.fastq.gz
- 332178 SRR12557007_2.fastq.gz
- 74306 SRR12557008_1.fastq.gz
- 80855 SRR12557008_2.fastq.gz
- 73 SRR2229974.fastq.gz
- 4932 SRR2229975.fastq.gz
- 183 SRR2229976.fastq.gz
- 301 SRR2229977.fastq.gz
- 210684 SRR4047196_1.fastq.gz
- 230316 SRR4047196_2.fastq.gz
- 19831 SRR4047197_1.fastq.gz
- 21318 SRR4047197_2.fastq.gz
- 234789 SRR4047198_1.fastq.gz
- 249892 SRR4047198_2.fastq.gz
- 14710 SRR4047199_1.fastq.gz
- 15916 SRR4047199_2.fastq.gz
- 252272 SRR4047200_1.fastq.gz
- 276155 SRR4047200_2.fastq.gz
- 13841 SRR4047201_1.fastq.gz
- 12922 SRR4047201_2.fastq.gz
- 262213 SRR4047202_1.fastq.gz
- 281063 SRR4047202_2.fastq.gz
- 14133 SRR4047203_1.fastq.gz
- 12958 SRR4047203_2.fastq.gz
- 93564 SRR4047205.fastq.gz
- 614923 SRR4047206.fastq.gz
- 106525 SRR4047207.fastq.gz
- 1319578 SRR4047212.fastq.gz
- 265716 SRR4047213.fastq.gz
- 242733 SRR4047214.fastq.gz
- 1013351 SRR4047217.fastq.gz
- 120193 SRR4047218.fastq.gz
- 18694 SRR4047219.fastq.gz
- 264814 SRR4047220_1.fastq.gz
- 240393 SRR4047220_2.fastq.gz
- 5610 SRR4047221_1.fastq.gz
- 6233 SRR4047221_2.fastq.gz
- 221148 SRR4047222_1.fastq.gz
- 198081 SRR4047222_2.fastq.gz
- 7019 SRR4047223_1.fastq.gz
- 7827 SRR4047223_2.fastq.gz
- 179969 SRR4047224_1.fastq.gz
- 165205 SRR4047224_2.fastq.gz
- 8259 SRR4047225_1.fastq.gz
- 7471 SRR4047225_2.fastq.gz
- 508675 SRR5047040.fastq.gz
- 535027 SRR5047041.fastq.gz
- 286531 SRR5047042.fastq.gz
- 204225 SRR5047043.fastq.gz
- 5532 SRR5047044.fastq.gz
- 513708 SRR5047045.fastq.gz
- 530388 SRR5047046.fastq.gz
- 485121 SRR5047047.fastq.gz
- 262109 SRR5047048.fastq.gz
- 304439 SRR5047049.fastq.gz
- 406510 SRR5047050.fastq.gz
- 258275 SRR5047051.fastq.gz
- 264056 SRR5047052.fastq.gz
- 734728 SRR5047053.fastq.gz
- 391256 SRR5047054.fastq.gz
- 2399 SRR5047055.fastq.gz
- 397295 SRR5047056.fastq.gz
- 280929 SRR5047057.fastq.gz
- 305664 SRR5047058.fastq.gz
- 277326 SRR5047059.fastq.gz
- 21866 SRR5047060_1.fastq.gz
- 21293 SRR5047060_2.fastq.gz
- 320691 SRR5047061.fastq.gz
- 312267 SRR5047062.fastq.gz
- 385517 SRR5047063.fastq.gz
- 577194 SRR5047064.fastq.gz
- 446264 SRR5047065.fastq.gz
- 425612 SRR5047066.fastq.gz
- 351067 SRR5047067.fastq.gz
- 253094 SRR5047068.fastq.gz
- 465524 SRR5047069.fastq.gz
- 193442 SRR5047070.fastq.gz
- 482020 SRR5047071.fastq.gz
- 580054 SRR5047072.fastq.gz
- 475779 SRR5047073.fastq.gz
- 633543 SRR5047074.fastq.gz
- 25738 SRR5047075_1.fastq.gz
- 26755 SRR5047075_2.fastq.gz
- 281336 SRR5047076.fastq.gz
- 176594 SRR5047077.fastq.gz
- 203864 SRR5047078.fastq.gz
- 245555 SRR5047079.fastq.gz
- 238172 SRR5047080.fastq.gz
- 805204 SRR5047081.fastq.gz
- 272729 SRR5047082.fastq.gz
- 156858 SRR5047083.fastq.gz
- 76519 SRR5047084.fastq.gz
- 143247 SRR5047085.fastq.gz
- 203527 SRR5047086.fastq.gz
- 422339 SRR5047087.fastq.gz
- 551776 SRR5047088.fastq.gz
- 646101 SRR5047089.fastq.gz
- 540270 SRR5047090.fastq.gz
- 260548 SRR5047091.fastq.gz
- 491044 SRR5047092.fastq.gz
- 366211 SRR5047093.fastq.gz
- 442910 SRR5047094.fastq.gz
- 646626 SRR5047095.fastq.gz
- 590059 SRR5047096.fastq.gz
- 253157 SRR5047097.fastq.gz
- 452909 SRR5047098.fastq.gz
- 376663 SRR5047099.fastq.gz
- 506004 SRR5047100.fastq.gz
- 169194 SRR5047101.fastq.gz
- 213571 SRR5047102.fastq.gz
- 94581 SRR5047103.fastq.gz
- 273562 SRR5047104.fastq.gz
- 438488 SRR5047105.fastq.gz
- 501572 SRR5047106.fastq.gz
- 398463 SRR5047107.fastq.gz
- 421671 SRR5047108.fastq.gz
- 562974 SRR5047109.fastq.gz
- 431858 SRR5047110.fastq.gz
- 62062 SRR5047111_1.fastq.gz
- 64141 SRR5047111_2.fastq.gz
- 14749 SRR5047112.fastq.gz
- 515036 SRR5047113.fastq.gz
- 345557 SRR5047114.fastq.gz
- 186785 SRR5047115.fastq.gz
- 298520 SRR5047116.fastq.gz
- 238644 SRR5047117.fastq.gz
- 142872 SRR5047118.fastq.gz
- 422301 SRR5047119.fastq.gz
- 297913 SRR5047120.fastq.gz
- 472117 SRR5047121.fastq.gz
- 370365 SRR5047122.fastq.gz
- 431213 SRR5047123.fastq.gz
- 480203 SRR5047124.fastq.gz
- 260159 SRR5047125.fastq.gz
- 266101 SRR5047126.fastq.gz
- 477844 SRR5047127.fastq.gz
- 349055 SRR5047128.fastq.gz
- 354830 SRR5047129.fastq.gz
- 145773 SRR5047130.fastq.gz
- 374215 SRR5047131.fastq.gz
- 29712 SRR5047132_1.fastq.gz
- 28600 SRR5047132_2.fastq.gz
- 286138 SRR5047133.fastq.gz
- 506302 SRR5047134.fastq.gz
- 346682 SRR5047135.fastq.gz
- 486223 SRR5047136.fastq.gz
- 545379 SRR5047137.fastq.gz
- 188625 SRR5047138.fastq.gz
- 151311 SRR5047139.fastq.gz
- 639931 SRR5047140.fastq.gz
- 242318 SRR5047141.fastq.gz
- 907473 SRR5047142.fastq.gz
- 486857 SRR5047143.fastq.gz
- 403875 SRR5047144.fastq.gz
- 143336 SRR5047145.fastq.gz
- 222190 SRR5047146.fastq.gz
- 315696 SRR5047147.fastq.gz
- 445596 SRR5047148.fastq.gz
- 251263 SRR5047149.fastq.gz
- 357986 SRR5047150.fastq.gz
- 362953 SRR5047151.fastq.gz
- 289170 SRR5047152.fastq.gz
- 224460 SRR5047153.fastq.gz
- 429068 SRR5047154.fastq.gz
- 328442 SRR5047155.fastq.gz
- 232297 SRR5047156.fastq.gz
- 306605 SRR5047157.fastq.gz
- 681254 SRR5047158.fastq.gz
- 56579 SRR5047159_1.fastq.gz
- 54918 SRR5047159_2.fastq.gz
- 439401 SRR5047160.fastq.gz
- 344931 SRR5047161.fastq.gz
- 703293 SRR5047162.fastq.gz
- 307502 SRR5047163.fastq.gz
- 18445 SRR5047164_1.fastq.gz
- 19229 SRR5047164_2.fastq.gz
- 198401 SRR5047165.fastq.gz
- 35687 SRR5047166_1.fastq.gz
- 37036 SRR5047166_2.fastq.gz
- 383427 SRR5047167.fastq.gz
- 243231 SRR5047168.fastq.gz
- 397396 SRR5047169.fastq.gz
- 236919 SRR5047170.fastq.gz
- 566045 SRR5047171.fastq.gz
- 402639 SRR5047172.fastq.gz
- 189330 SRR5047173.fastq.gz
- 281929 SRR5047174.fastq.gz
- 173611 SRR5047175.fastq.gz
- 57896 SRR5047176.fastq.gz
- 242633 SRR5047177.fastq.gz
- 361521 SRR5047178.fastq.gz
- 395263 SRR5047179.fastq.gz
- 470880 SRR5047180.fastq.gz
- 646146 SRR5047181.fastq.gz
- 281912 SRR5047182.fastq.gz
- 562756 SRR5047183.fastq.gz
- 819604 SRR5047184.fastq.gz
- 296322 SRR5047185.fastq.gz
- 292790 SRR5047186.fastq.gz
- 241983 SRR5047187.fastq.gz
- 187118 SRR5047188.fastq.gz
- 333759 SRR5047189.fastq.gz
- 369768 SRR5047190.fastq.gz
- 554480 SRR5047191.fastq.gz
- 29913 SRR5047192.fastq.gz
- 277100 SRR5047193.fastq.gz
- 659477 SRR5047194.fastq.gz
- 187470 SRR5047195.fastq.gz
- 474840 SRR5047196.fastq.gz
- 478672 SRR5047197.fastq.gz
- 216797 SRR5047198.fastq.gz
- 415824 SRR5047199.fastq.gz
- 262006 SRR5047200.fastq.gz
- 463076 SRR5047201.fastq.gz
- 491565 SRR5047202.fastq.gz
- 256401 SRR5047203.fastq.gz
- 371680 SRR5047204.fastq.gz
- 331340 SRR5297130_1.fastq.gz
- 337439 SRR5297130_2.fastq.gz
- 109599 SRR5297131_1.fastq.gz
- 117437 SRR5297131_2.fastq.gz
- 128789 SRR5297132_1.fastq.gz
- 133705 SRR5297132_2.fastq.gz
- 162224 SRR5297133_1.fastq.gz
- 169970 SRR5297133_2.fastq.gz
- 2139676 SRR5581849_1.fastq.gz
- 2141628 SRR5581849_2.fastq.gz
- 294235 SRR5581851_1.fastq.gz
- 294410 SRR5581851_2.fastq.gz
- 1897020 SRR5581852_1.fastq.gz
- 1900435 SRR5581852_2.fastq.gz
- 1868117 SRR5581853_1.fastq.gz
- 1871613 SRR5581853_2.fastq.gz
- 1928939 SRR5581854_1.fastq.gz
- 1938390 SRR5581854_2.fastq.gz
- 2005231 SRR5581855_1.fastq.gz
- 2000290 SRR5581855_2.fastq.gz
- 2710618 SRR5581856_1.fastq.gz
- 2645864 SRR5581856_2.fastq.gz
- 35062 SRR5581857_1.fastq.gz
- 35176 SRR5581857_2.fastq.gz
- 1577011 SRR5581858_1.fastq.gz
- 1572681 SRR5581858_2.fastq.gz
- 113429 SRR5875714_1.fastq.gz
- 131053 SRR5875714_2.fastq.gz
- 783021 SRR5875715_1.fastq.gz
- 794836 SRR5875715_2.fastq.gz
- 120408 SRR5875718_1.fastq.gz
- 142041 SRR5875718_2.fastq.gz
- 1118324 SRR5875719_1.fastq.gz
- 1197523 SRR5875719_2.fastq.gz
- 109559 SRR5875720_1.fastq.gz
- 113350 SRR5875720_2.fastq.gz
- 946043 SRR5875721_1.fastq.gz
- 936709 SRR5875721_2.fastq.gz
- 93207 SRR5875722_1.fastq.gz
- 109984 SRR5875722_2.fastq.gz
- 1027290 SRR5875723_1.fastq.gz
- 1112381 SRR5875723_2.fastq.gz
- 133432 SRR5875724_1.fastq.gz
- 149974 SRR5875724_2.fastq.gz
- 2430897 SRR5875725_1.fastq.gz
- 2632235 SRR5875725_2.fastq.gz
- 130361 SRR5875726_1.fastq.gz
- 146033 SRR5875726_2.fastq.gz
- 1028933 SRR5875727_1.fastq.gz
- 1057011 SRR5875727_2.fastq.gz
- 132429 SRR5875728_1.fastq.gz
- 150767 SRR5875728_2.fastq.gz
- 1726574 SRR5875729_1.fastq.gz
- 1787384 SRR5875729_2.fastq.gz
- 73087 SRR5875730_1.fastq.gz
- 86771 SRR5875730_2.fastq.gz
- 847559 SRR5875731_1.fastq.gz
- 909823 SRR5875731_2.fastq.gz
- 510738 SRR6877282_1.fastq.gz
- 539941 SRR6877282_2.fastq.gz
- 889628 SRR6877283_1.fastq.gz
- 924092 SRR6877283_2.fastq.gz
- 1162179 SRR6877284_1.fastq.gz
- 1212329 SRR6877284_2.fastq.gz
- 17586 SRR6877285_1.fastq.gz
- 18334 SRR6877285_2.fastq.gz
- 412573 SRR6877286_1.fastq.gz
- 430029 SRR6877286_2.fastq.gz
- 749525 SRR6877287_1.fastq.gz
- 782031 SRR6877287_2.fastq.gz
- 549669 SRR6877288_1.fastq.gz
- 578485 SRR6877288_2.fastq.gz
- 2578835 SRR6877289_1.fastq.gz
- 2767311 SRR6877289_2.fastq.gz
- 467023 SRR6877290_1.fastq.gz
- 485704 SRR6877290_2.fastq.gz
- 1492563 SRR6877291_1.fastq.gz
- 1556269 SRR6877291_2.fastq.gz
- 750540 SRR6877292_1.fastq.gz
- 771077 SRR6877292_2.fastq.gz
- 214065 SRR6877293.fastq.gz
- 217913 SRR6877294.fastq.gz
- 214472 SRR6877295.fastq.gz
- 240341 SRR6877296.fastq.gz
- 309185 SRR6877297.fastq.gz
- 1625142 SRR6877298_1.fastq.gz
- 1680500 SRR6877298_2.fastq.gz
- 781392 SRR6877299_1.fastq.gz
- 810297 SRR6877299_2.fastq.gz
- 923110 SRR6877300_1.fastq.gz
- 949788 SRR6877300_2.fastq.gz
- 1068040 SRR6877301_1.fastq.gz
- 1089125 SRR6877301_2.fastq.gz
- 151545 SRR6877302.fastq.gz
- 198910 SRR6877303.fastq.gz
- 220773 SRR6877304.fastq.gz
- 258482 SRR6877305.fastq.gz
- 1754016 SRR6877306_1.fastq.gz
- 1848513 SRR6877306_2.fastq.gz
- 177259 SRR6877307.fastq.gz
- 182849 SRR6877308.fastq.gz
- 251007 SRR6877309.fastq.gz
- 304655 SRR6877310_1.fastq.gz
- 322626 SRR6877310_2.fastq.gz
- 370824 SRR6877311_1.fastq.gz
- 387761 SRR6877311_2.fastq.gz
- 294441 SRR6877312_1.fastq.gz
- 310698 SRR6877312_2.fastq.gz
- 865585 SRR6877313_1.fastq.gz
- 898243 SRR6877313_2.fastq.gz
- 283686 SRR6877314_1.fastq.gz
- 299779 SRR6877314_2.fastq.gz
- 282793 SRR6877315.fastq.gz
- 299908 SRR6877316.fastq.gz
- 200240 SRR6877317.fastq.gz
- 263319 SRR6877318.fastq.gz
- 237893 SRR6877319.fastq.gz
- 190981 SRR6877320.fastq.gz
- 251067 SRR6877321.fastq.gz
- 244957 SRR6877322.fastq.gz
- 595699 SRR6877323_1.fastq.gz
- 623370 SRR6877323_2.fastq.gz
- 425450 SRR6877324_1.fastq.gz
- 451325 SRR6877324_2.fastq.gz
- 776267 SRR6877325_1.fastq.gz
- 827767 SRR6877325_2.fastq.gz
- 345076 SRR6877326_1.fastq.gz
- 364445 SRR6877326_2.fastq.gz
- 1466527 SRR6877327_1.fastq.gz
- 1535280 SRR6877327_2.fastq.gz
- 418123 SRR6877328.fastq.gz
- 241716 SRR6877329.fastq.gz
- 283522 SRR6877330.fastq.gz
- 191374 SRR6877331.fastq.gz
- 297403 SRR6877332.fastq.gz
- 153712 SRR6877333.fastq.gz
- 199726 SRR6877334.fastq.gz
- 201932 SRR6877335.fastq.gz
- 171189 SRR6877336.fastq.gz
- 196325 SRR6877337.fastq.gz
- 327017 SRR6877338.fastq.gz
- 1468423 SRR6877339_1.fastq.gz
- 1520176 SRR6877339_2.fastq.gz
- 986991 SRR6877340_1.fastq.gz
- 1033299 SRR6877340_2.fastq.gz
- 808277 SRR6877341_1.fastq.gz
- 826851 SRR6877341_2.fastq.gz
- 1121969 SRR6877342_1.fastq.gz
- 1118778 SRR6877342_2.fastq.gz
- 865955 SRR6877343_1.fastq.gz
- 887333 SRR6877343_2.fastq.gz
- 246077 SRR6877344.fastq.gz
- 187012 SRR6877345.fastq.gz
- 934317 SRR6877346_1.fastq.gz
- 961185 SRR6877346_2.fastq.gz
- 712727 SRR6877347_1.fastq.gz
- 693638 SRR6877347_2.fastq.gz
- 256435 SRR6877348.fastq.gz
- 221559 SRR6877349.fastq.gz
- 1011463 SRR6877350_1.fastq.gz
- 1045830 SRR6877350_2.fastq.gz
- 252519 SRR6877351.fastq.gz
- 206238 SRR6877352.fastq.gz
- 1180050 SRR6877353_1.fastq.gz
- 1213474 SRR6877353_2.fastq.gz
- 163726 SRR6877354.fastq.gz
- 206099 SRR6877355.fastq.gz
- 184705 SRR6877356.fastq.gz
- 208893 SRR6877357.fastq.gz
- 341667 SRR6877358_1.fastq.gz
- 353289 SRR6877358_2.fastq.gz
- 257499 SRR6877359.fastq.gz
- 261072 SRR6877360.fastq.gz
- 252244 SRR6877361.fastq.gz
- 210916 SRR6877362.fastq.gz
- 163028 SRR6877363.fastq.gz
- 191137 SRR6877364.fastq.gz
- 170822 SRR6877365.fastq.gz
- 731751 SRR6877366_1.fastq.gz
- 758391 SRR6877366_2.fastq.gz
- 328279 SRR6877367.fastq.gz
- 196826 SRR6877368.fastq.gz
- 312292 SRR6877369.fastq.gz
- 791920 SRR6877370_1.fastq.gz
- 851046 SRR6877370_2.fastq.gz
- 165883 SRR6877371.fastq.gz
- 194161 SRR6877372.fastq.gz
- 198561 SRR6877373.fastq.gz
- 235163 SRR6877374.fastq.gz
- 239987 SRR6877375.fastq.gz
- 260882 SRR6877376.fastq.gz
- 841902 SRR6877377_1.fastq.gz
- 848542 SRR6877377_2.fastq.gz
- 205778 SRR6877378.fastq.gz
- 176202 SRR6877379.fastq.gz
- 1007663 SRR6877380_1.fastq.gz
- 1045137 SRR6877380_2.fastq.gz
- 134353 SRR6877381.fastq.gz
- 192660 SRR6877382.fastq.gz
- 286034 SRR6877383.fastq.gz
- 807995 SRR6877384_1.fastq.gz
- 840649 SRR6877384_2.fastq.gz
- 1120160 SRR6877385_1.fastq.gz
- 1157527 SRR6877385_2.fastq.gz
- 210811 SRR6877386.fastq.gz
- 202649 SRR6877387.fastq.gz
- 797395 SRR6877388_1.fastq.gz
- 824050 SRR6877388_2.fastq.gz
- 701701 SRR6877389_1.fastq.gz
- 713917 SRR6877389_2.fastq.gz
- 208456 SRR6877390.fastq.gz
- 1269345 SRR6877391_1.fastq.gz
- 1216279 SRR6877391_2.fastq.gz
- 177801 SRR6877392.fastq.gz
- 370754 SRR6877393_1.fastq.gz
- 386305 SRR6877393_2.fastq.gz
- 239701 SRR6877394.fastq.gz
- 187063 SRR6877395.fastq.gz
- 226497 SRR6877396.fastq.gz
- 230076 SRR6877397.fastq.gz
- 954830 SRR6877398_1.fastq.gz
- 956600 SRR6877398_2.fastq.gz
- 939859 SRR6877399_1.fastq.gz
- 999664 SRR6877399_2.fastq.gz
- 287987 SRR6877400.fastq.gz
- 273804 SRR6877401.fastq.gz
- 977180 SRR6877402_1.fastq.gz
- 979810 SRR6877402_2.fastq.gz
- 1009805 SRR6877403_1.fastq.gz
- 1042676 SRR6877403_2.fastq.gz
- 195372 SRR6933819_1.fastq.gz
- 224972 SRR6933819_2.fastq.gz
- 21392 SRR6933820_1.fastq.gz
- 23338 SRR6933820_2.fastq.gz
- 198401 SRR6933821_1.fastq.gz
- 233645 SRR6933821_2.fastq.gz
- 143645 SRR6933822_1.fastq.gz
- 169728 SRR6933822_2.fastq.gz
- 24484 SRR6933823_1.fastq.gz
- 25132 SRR6933823_2.fastq.gz
- 52284 SRR6933824_1.fastq.gz
- 61935 SRR6933824_2.fastq.gz
- 37069 SRR6933825_1.fastq.gz
- 41482 SRR6933825_2.fastq.gz
- 43644 SRR6933826_1.fastq.gz
- 45384 SRR6933826_2.fastq.gz
- 42430 SRR6974014_1.fastq.gz
- 47773 SRR6974014_2.fastq.gz
- 66872 SRR6974015_1.fastq.gz
- 74759 SRR6974015_2.fastq.gz
- 147638 SRR6974016_1.fastq.gz
- 167726 SRR6974016_2.fastq.gz
- 84656 SRR6974017_1.fastq.gz
- 94761 SRR6974017_2.fastq.gz
- 1248133 SRR866660_1.fastq.gz
- 1368384 SRR866660_2.fastq.gz
- 678361 SRR866662_1.fastq.gz
- 750389 SRR866662_2.fastq.gz
- 1004066 SRR866663_1.fastq.gz
- 1105873 SRR866663_2.fastq.gz
- 1117401 SRR866664_1.fastq.gz
- 1223192 SRR866664_2.fastq.gz
- 930164 SRR866665_1.fastq.gz
- 1034248 SRR866665_2.fastq.gz
- 521646 SRR866666_1.fastq.gz
- 579286 SRR866666_2.fastq.gz
- 778555 SRR867031.fastq.gz
- 771155 SRR867032.fastq.gz
- 657486 SRR867033.fastq.gz
- 582750 SRR867034.fastq.gz
- 88 SRR867035.fastq.gz
- 723465 SRR867036.fastq.gz
- 674422 SRR867037.fastq.gz
- 714211 SRR867038.fastq.gz
- 738455 SRR867039.fastq.gz
- 116 SRR867040.fastq.gz
- 1030964 SRR8899212_1.fastq.gz
- 1091663 SRR8899212_2.fastq.gz
- 720658 SRR8899213_1.fastq.gz
- 769630 SRR8899213_2.fastq.gz
- 1806129 SRR8899214_1.fastq.gz
- 1916048 SRR8899214_2.fastq.gz
- 665971 SRR8899215_1.fastq.gz
- 707873 SRR8899215_2.fastq.gz
- 1027400 SRR8899216_1.fastq.gz
- 1085630 SRR8899216_2.fastq.gz
- 2627904 SRR8899217_1.fastq.gz
- 2744850 SRR8899217_2.fastq.gz
- 776760 SRR8899218_1.fastq.gz
- 837862 SRR8899218_2.fastq.gz
- 178877 SRR8899219_1.fastq.gz
- 188295 SRR8899219_2.fastq.gz
- 319979 SRR8899220_1.fastq.gz
- 339467 SRR8899220_2.fastq.gz
- 841609 SRR8899221_1.fastq.gz
- 893170 SRR8899221_2.fastq.gz
- 531688 SRR8899222_1.fastq.gz
- 565035 SRR8899222_2.fastq.gz
- 611907 SRR8899223_1.fastq.gz
- 650987 SRR8899223_2.fastq.gz
- 460210 SRR8899224_1.fastq.gz
- 493634 SRR8899224_2.fastq.gz
- 368442 SRR8899225_1.fastq.gz
- 390314 SRR8899225_2.fastq.gz
- 541399 SRR8899226_1.fastq.gz
- 578206 SRR8899226_2.fastq.gz
- 651445 SRR8899227_1.fastq.gz
- 696989 SRR8899227_2.fastq.gz
- 679200 SRR8899228_1.fastq.gz
- 728458 SRR8899228_2.fastq.gz
- 280938 SRR8899229_1.fastq.gz
- 296347 SRR8899229_2.fastq.gz
- 636981 SRR8899230_1.fastq.gz
- 672428 SRR8899230_2.fastq.gz
- 1029504 SRR957738.fastq.gz
- 1097742 SRR957739.fastq.gz
- 711023 SRR957740.fastq.gz
- 936400 SRR957741.fastq.gz
- 737749 SRR957742.fastq.gz
- 747001 SRR957743.fastq.gz
- 845844 SRR957744.fastq.gz
- 839634 SRR957745.fastq.gz
- 651704 SRR957746.fastq.gz
- 169836 SRR9898613.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 9MB Feb 16 13:07 SRR1047998.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1639MB Feb 16 13:56 SRR11176627_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1883MB Feb 16 13:56 SRR11176627_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 598MB Feb 16 14:14 SRR11176628_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 711MB Feb 16 14:14 SRR11176628_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 928MB Feb 16 14:42 SRR11176629_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1090MB Feb 16 14:42 SRR11176629_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 746MB Feb 16 15:05 SRR11176630_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 860MB Feb 16 15:05 SRR11176630_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 677MB Feb 16 15:26 SRR11176631_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 834MB Feb 16 15:26 SRR11176631_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 416MB Feb 16 15:55 SRR11176632_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 462MB Feb 16 15:55 SRR11176632_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 198MB Feb 16 16:25 SRR11176633_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 218MB Feb 16 16:25 SRR11176633_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 466MB Feb 16 16:39 SRR11176634_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 518MB Feb 16 16:39 SRR11176634_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 857MB Feb 16 18:40 SRR11176635_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 985MB Feb 16 18:40 SRR11176635_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 823MB Feb 16 19:00 SRR11176636_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 945MB Feb 16 19:00 SRR11176636_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 284MB Feb 16 19:22 SRR11176638_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 315MB Feb 16 19:22 SRR11176638_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 950MB Feb 16 19:51 SRR11176639_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1140MB Feb 16 19:51 SRR11176639_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1284MB Feb 16 20:36 SRR11176640_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1529MB Feb 16 20:36 SRR11176640_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 826MB Feb 16 21:04 SRR11176641_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 996MB Feb 16 21:04 SRR11176641_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 644MB Feb 16 21:27 SRR11176642_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 792MB Feb 16 21:27 SRR11176642_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 113MB Feb 17 09:51 SRR12136712_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 110MB Feb 17 09:51 SRR12136712_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 513MB Feb 17 09:47 SRR12136713_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 508MB Feb 17 09:47 SRR12136713_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 257MB Feb 17 08:36 SRR12281656.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 188MB Feb 17 08:39 SRR12281657.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 291MB Feb 17 08:48 SRR12281658_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 294MB Feb 17 08:48 SRR12281658_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 283MB Feb 17 08:56 SRR12281659_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 286MB Feb 17 08:56 SRR12281659_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 173MB Feb 17 08:58 SRR12281660.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 174MB Feb 17 09:01 SRR12281661.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 288MB Feb 17 09:09 SRR12281662_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 289MB Feb 17 09:09 SRR12281662_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 292MB Feb 17 09:18 SRR12281663_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 294MB Feb 17 09:18 SRR12281663_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 692MB Feb 17 03:27 SRR12462930_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 711MB Feb 17 03:27 SRR12462930_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 911MB Feb 17 03:55 SRR12462931_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 951MB Feb 17 03:55 SRR12462931_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 997MB Feb 17 04:31 SRR12462932_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1053MB Feb 17 04:31 SRR12462932_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 832MB Feb 17 05:15 SRR12462933_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 837MB Feb 17 05:15 SRR12462933_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 723MB Feb 17 05:38 SRR12462934_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 771MB Feb 17 05:38 SRR12462934_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 985MB Feb 17 06:16 SRR12462935_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1000MB Feb 17 06:16 SRR12462935_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 873MB Feb 17 06:49 SRR12462936_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 885MB Feb 17 06:49 SRR12462936_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 729MB Feb 17 07:10 SRR12462937_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 744MB Feb 17 07:10 SRR12462937_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 2724MB Feb 21 17:52 SRR12462938_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 2505MB Feb 21 17:52 SRR12462938_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 597MB Feb 21 18:10 SRR12462939_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 563MB Feb 21 18:10 SRR12462939_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 826MB Feb 21 18:39 SRR12462940_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 802MB Feb 21 18:39 SRR12462940_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1375MB Feb 22 04:27 SRR12462941_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1329MB Feb 22 04:27 SRR12462941_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 2179MB Feb 16 23:27 SRR12462942_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 2071MB Feb 16 23:27 SRR12462942_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 638MB Feb 17 02:20 SRR12462943_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 589MB Feb 17 02:20 SRR12462943_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 185MB Feb 17 02:34 SRR12462944_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 183MB Feb 17 02:34 SRR12462944_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 933MB Feb 17 03:07 SRR12462945_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 921MB Feb 17 03:07 SRR12462945_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 792MB Feb 17 07:49 SRR12462946_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 853MB Feb 17 07:49 SRR12462946_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1053MB Feb 17 08:32 SRR12462947_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1102MB Feb 17 08:32 SRR12462947_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 224MB Feb 16 12:57 SRR12557006_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 237MB Feb 16 12:57 SRR12557006_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 324MB Feb 16 13:07 SRR12557007_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 341MB Feb 16 13:07 SRR12557007_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 77MB Feb 16 12:46 SRR12557008_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 83MB Feb 16 12:46 SRR12557008_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1MB Feb 15 20:45 SRR2229974.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 6MB Feb 15 20:45 SRR2229975.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1MB Feb 15 20:45 SRR2229976.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1MB Feb 15 20:45 SRR2229977.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 216MB Feb 16 11:26 SRR4047196_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 236MB Feb 16 11:26 SRR4047196_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 21MB Feb 16 11:26 SRR4047197_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 22MB Feb 16 11:26 SRR4047197_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 241MB Feb 16 10:25 SRR4047198_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 256MB Feb 16 10:25 SRR4047198_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 16MB Feb 16 10:25 SRR4047199_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 17MB Feb 16 10:25 SRR4047199_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 259MB Feb 16 10:48 SRR4047200_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 283MB Feb 16 10:48 SRR4047200_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 15MB Feb 16 10:48 SRR4047201_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 14MB Feb 16 10:48 SRR4047201_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 269MB Feb 16 10:54 SRR4047202_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 288MB Feb 16 10:54 SRR4047202_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 15MB Feb 16 10:54 SRR4047203_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 14MB Feb 16 10:54 SRR4047203_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 96MB Feb 16 10:56 SRR4047205.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 630MB Feb 16 11:05 SRR4047206.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 110MB Feb 16 11:07 SRR4047207.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1352MB Feb 16 11:44 SRR4047212.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 273MB Feb 16 11:48 SRR4047213.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 249MB Feb 16 11:51 SRR4047214.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1038MB Feb 16 12:03 SRR4047217.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 124MB Feb 16 12:05 SRR4047218.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 20MB Feb 16 12:05 SRR4047219.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 272MB Feb 16 12:11 SRR4047220_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 247MB Feb 16 12:11 SRR4047220_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 6MB Feb 16 12:11 SRR4047221_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 7MB Feb 16 12:11 SRR4047221_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 227MB Feb 16 12:16 SRR4047222_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 203MB Feb 16 12:16 SRR4047222_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 8MB Feb 16 12:17 SRR4047223_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 9MB Feb 16 12:17 SRR4047223_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 185MB Feb 16 12:21 SRR4047224_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 170MB Feb 16 12:21 SRR4047224_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 9MB Feb 16 12:21 SRR4047225_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 8MB Feb 16 12:21 SRR4047225_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 521MB Feb 17 17:38 SRR5047040.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 548MB Feb 17 23:59 SRR5047041.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 294MB Feb 18 02:21 SRR5047042.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 210MB Feb 17 11:00 SRR5047043.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 6MB Feb 18 02:24 SRR5047044.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 527MB Feb 17 12:22 SRR5047045.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 544MB Feb 17 18:04 SRR5047046.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 497MB Feb 17 21:43 SRR5047047.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 269MB Feb 17 10:29 SRR5047048.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 312MB Feb 18 01:43 SRR5047049.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 417MB Feb 18 02:56 SRR5047050.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 265MB Feb 17 10:44 SRR5047051.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 271MB Feb 18 00:52 SRR5047052.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 753MB Feb 17 13:34 SRR5047053.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 401MB Feb 17 18:49 SRR5047054.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 3MB Feb 18 02:24 SRR5047055.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 407MB Feb 18 02:46 SRR5047056.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 288MB Feb 17 10:53 SRR5047057.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 313MB Feb 17 11:43 SRR5047058.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 284MB Feb 18 01:33 SRR5047059.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 23MB Feb 17 10:21 SRR5047060_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 22MB Feb 17 10:21 SRR5047060_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 329MB Feb 18 02:15 SRR5047061.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 320MB Feb 17 18:24 SRR5047062.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 395MB Feb 17 18:44 SRR5047063.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 592MB Feb 18 04:08 SRR5047064.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 457MB Feb 17 13:05 SRR5047065.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 436MB Feb 18 00:42 SRR5047066.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 360MB Feb 17 17:22 SRR5047067.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 260MB Feb 17 11:46 SRR5047068.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 477MB Feb 17 10:20 SRR5047069.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 199MB Feb 17 11:21 SRR5047070.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 494MB Feb 17 18:40 SRR5047071.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 594MB Feb 18 03:10 SRR5047072.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 488MB Feb 17 15:28 SRR5047073.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 649MB Feb 17 22:31 SRR5047074.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 27MB Feb 17 10:22 SRR5047075_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 28MB Feb 17 10:22 SRR5047075_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 289MB Feb 17 12:01 SRR5047076.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 181MB Feb 17 11:37 SRR5047077.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 209MB Feb 18 02:17 SRR5047078.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 252MB Feb 17 22:03 SRR5047079.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 244MB Feb 17 11:11 SRR5047080.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 825MB Feb 17 15:56 SRR5047081.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 280MB Feb 17 16:22 SRR5047082.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 161MB Feb 17 16:23 SRR5047083.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 79MB Feb 18 03:25 SRR5047084.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 147MB Feb 17 11:24 SRR5047085.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 209MB Feb 17 10:55 SRR5047086.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 433MB Feb 18 00:05 SRR5047087.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 566MB Feb 17 12:39 SRR5047088.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 662MB Feb 17 19:34 SRR5047089.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 554MB Feb 17 16:18 SRR5047090.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 267MB Feb 18 00:24 SRR5047091.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 503MB Feb 17 21:59 SRR5047092.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 375MB Feb 18 00:56 SRR5047093.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 454MB Feb 17 13:25 SRR5047094.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 663MB Feb 17 15:41 SRR5047095.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 605MB Feb 18 03:17 SRR5047096.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 260MB Feb 17 11:52 SRR5047097.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 464MB Feb 17 23:49 SRR5047098.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 386MB Feb 18 03:24 SRR5047099.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 519MB Feb 17 12:28 SRR5047100.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 174MB Feb 17 11:02 SRR5047101.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 219MB Feb 17 22:55 SRR5047102.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 97MB Feb 18 03:54 SRR5047103.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 281MB Feb 18 02:03 SRR5047104.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 450MB Feb 18 03:53 SRR5047105.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 514MB Feb 17 12:33 SRR5047106.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 409MB Feb 18 01:23 SRR5047107.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 432MB Feb 17 22:49 SRR5047108.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 577MB Feb 17 15:34 SRR5047109.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 443MB Feb 18 03:00 SRR5047110.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 64MB Feb 17 10:23 SRR5047111_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 66MB Feb 17 10:23 SRR5047111_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 16MB Feb 18 02:24 SRR5047112.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 528MB Feb 17 17:28 SRR5047113.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 354MB Feb 17 17:58 SRR5047114.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 192MB Feb 17 12:09 SRR5047115.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 306MB Feb 18 01:07 SRR5047116.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 245MB Feb 17 18:13 SRR5047117.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 147MB Feb 17 11:22 SRR5047118.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 433MB Feb 17 13:15 SRR5047119.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 306MB Feb 18 00:21 SRR5047120.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 484MB Feb 17 23:44 SRR5047121.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 380MB Feb 18 00:37 SRR5047122.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 442MB Feb 17 19:13 SRR5047123.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 492MB Feb 17 23:54 SRR5047124.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 267MB Feb 18 02:36 SRR5047125.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 273MB Feb 17 12:07 SRR5047126.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 490MB Feb 17 12:16 SRR5047127.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 358MB Feb 18 01:49 SRR5047128.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 364MB Feb 17 22:44 SRR5047129.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 150MB Feb 18 02:48 SRR5047130.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 384MB Feb 18 03:04 SRR5047131.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 31MB Feb 17 10:24 SRR5047132_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 30MB Feb 17 10:24 SRR5047132_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 294MB Feb 18 01:15 SRR5047133.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 519MB Feb 17 13:20 SRR5047134.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 356MB Feb 18 03:43 SRR5047135.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 498MB Feb 17 21:38 SRR5047136.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 559MB Feb 17 23:06 SRR5047137.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 194MB Feb 17 11:32 SRR5047138.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 155MB Feb 18 02:49 SRR5047139.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 656MB Feb 17 16:03 SRR5047140.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 249MB Feb 18 01:36 SRR5047141.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 930MB Feb 18 04:03 SRR5047142.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 499MB Feb 17 19:20 SRR5047143.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 414MB Feb 17 23:10 SRR5047144.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 147MB Feb 18 01:45 SRR5047145.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 228MB Feb 17 11:13 SRR5047146.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 324MB Feb 18 01:00 SRR5047147.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 457MB Feb 18 01:59 SRR5047148.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 258MB Feb 18 02:24 SRR5047149.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 367MB Feb 18 03:20 SRR5047150.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 372MB Feb 17 22:53 SRR5047151.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 297MB Feb 17 18:30 SRR5047152.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 230MB Feb 18 02:39 SRR5047153.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 440MB Feb 18 02:29 SRR5047154.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 337MB Feb 18 01:04 SRR5047155.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 238MB Feb 17 11:39 SRR5047156.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 314MB Feb 17 10:41 SRR5047157.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 698MB Feb 18 03:40 SRR5047158.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 58MB Feb 17 10:25 SRR5047159_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 57MB Feb 17 10:25 SRR5047159_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 450MB Feb 17 18:54 SRR5047160.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 354MB Feb 17 18:16 SRR5047161.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 721MB Feb 17 16:12 SRR5047162.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 315MB Feb 18 01:40 SRR5047163.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 19MB Feb 17 10:25 SRR5047164_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 20MB Feb 17 10:25 SRR5047164_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 204MB Feb 17 10:50 SRR5047165.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 37MB Feb 17 10:26 SRR5047166_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 38MB Feb 17 10:26 SRR5047166_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 393MB Feb 18 01:12 SRR5047167.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 250MB Feb 17 11:35 SRR5047168.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 407MB Feb 17 18:21 SRR5047169.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 243MB Feb 17 10:47 SRR5047170.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 580MB Feb 18 03:30 SRR5047171.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 413MB Feb 17 17:43 SRR5047172.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 194MB Feb 18 01:17 SRR5047173.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 289MB Feb 18 02:42 SRR5047174.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 178MB Feb 18 02:51 SRR5047175.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 60MB Feb 17 11:55 SRR5047176.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 249MB Feb 17 11:58 SRR5047177.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 371MB Feb 17 18:58 SRR5047178.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 405MB Feb 17 22:59 SRR5047179.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 483MB Feb 17 13:11 SRR5047180.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 662MB Feb 17 17:50 SRR5047181.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 289MB Feb 17 18:34 SRR5047182.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 577MB Feb 17 15:48 SRR5047183.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 840MB Feb 18 00:18 SRR5047184.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 304MB Feb 18 00:08 SRR5047185.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 300MB Feb 18 01:54 SRR5047186.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 248MB Feb 17 10:57 SRR5047187.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 192MB Feb 18 01:51 SRR5047188.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 342MB Feb 17 23:14 SRR5047189.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 379MB Feb 17 17:32 SRR5047190.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 568MB Feb 17 13:01 SRR5047191.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 31MB Feb 18 02:56 SRR5047192.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 284MB Feb 17 18:27 SRR5047193.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 676MB Feb 17 10:16 SRR5047194.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 192MB Feb 17 12:11 SRR5047195.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 487MB Feb 17 15:23 SRR5047196.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 491MB Feb 17 21:32 SRR5047197.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 223MB Feb 17 11:54 SRR5047198.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 426MB Feb 17 22:08 SRR5047199.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 269MB Feb 17 11:49 SRR5047200.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 475MB Feb 17 17:55 SRR5047201.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 504MB Feb 18 03:48 SRR5047202.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 263MB Feb 17 12:04 SRR5047203.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 381MB Feb 18 02:33 SRR5047204.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 340MB Feb 16 12:30 SRR5297130_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 346MB Feb 16 12:30 SRR5297130_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 113MB Feb 16 12:43 SRR5297131_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 121MB Feb 16 12:43 SRR5297131_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 132MB Feb 16 12:39 SRR5297132_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 137MB Feb 16 12:39 SRR5297132_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 167MB Feb 16 12:35 SRR5297133_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 175MB Feb 16 12:35 SRR5297133_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 2192MB Feb 15 18:32 SRR5581849_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 2194MB Feb 15 18:32 SRR5581849_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 302MB Feb 15 15:20 SRR5581851_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 302MB Feb 15 15:20 SRR5581851_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1943MB Feb 15 19:15 SRR5581852_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1947MB Feb 15 19:15 SRR5581852_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1913MB Feb 15 16:53 SRR5581853_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1917MB Feb 15 16:53 SRR5581853_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1976MB Feb 15 17:41 SRR5581854_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1985MB Feb 15 17:41 SRR5581854_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 2054MB Feb 13 00:46 SRR5581855_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 2049MB Feb 13 00:46 SRR5581855_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 2776MB Feb 15 03:54 SRR5581856_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 2710MB Feb 15 03:54 SRR5581856_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 36MB Feb 15 20:32 SRR5581857_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 37MB Feb 15 20:32 SRR5581857_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1615MB Feb 15 04:21 SRR5581858_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1611MB Feb 15 04:21 SRR5581858_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 117MB Feb 16 04:47 SRR5875714_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 135MB Feb 16 04:47 SRR5875714_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 802MB Feb 16 05:13 SRR5875715_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 814MB Feb 16 05:13 SRR5875715_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 124MB Feb 16 03:37 SRR5875718_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 146MB Feb 16 03:37 SRR5875718_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1146MB Feb 16 04:09 SRR5875719_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1227MB Feb 16 04:09 SRR5875719_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 113MB Feb 16 04:13 SRR5875720_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 117MB Feb 16 04:13 SRR5875720_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 969MB Feb 16 04:43 SRR5875721_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 960MB Feb 16 04:43 SRR5875721_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 96MB Feb 16 02:36 SRR5875722_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 113MB Feb 16 02:36 SRR5875722_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1052MB Feb 16 03:07 SRR5875723_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1140MB Feb 16 03:07 SRR5875723_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 137MB Feb 16 00:58 SRR5875724_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 154MB Feb 16 00:58 SRR5875724_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 2490MB Feb 16 02:34 SRR5875725_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 2696MB Feb 16 02:34 SRR5875725_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 134MB Feb 16 00:16 SRR5875726_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 150MB Feb 16 00:16 SRR5875726_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1054MB Feb 16 00:45 SRR5875727_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1083MB Feb 16 00:45 SRR5875727_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 136MB Feb 15 20:52 SRR5875728_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 155MB Feb 15 20:52 SRR5875728_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1769MB Feb 16 00:12 SRR5875729_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1831MB Feb 16 00:12 SRR5875729_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 75MB Feb 16 03:09 SRR5875730_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 89MB Feb 16 03:09 SRR5875730_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 868MB Feb 16 03:34 SRR5875731_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 932MB Feb 16 03:34 SRR5875731_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 523MB Feb 10 20:34 SRR6877282_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 553MB Feb 10 20:34 SRR6877282_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 911MB Feb 12 14:34 SRR6877283_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 947MB Feb 12 14:34 SRR6877283_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1191MB Feb 9 08:42 SRR6877284_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1242MB Feb 9 08:42 SRR6877284_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 19MB Feb 10 21:24 SRR6877285_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 19MB Feb 10 21:24 SRR6877285_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 423MB Feb 9 08:08 SRR6877286_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 441MB Feb 9 08:08 SRR6877286_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 768MB Feb 10 21:23 SRR6877287_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 801MB Feb 10 21:23 SRR6877287_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 563MB Feb 9 09:11 SRR6877288_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 593MB Feb 9 09:11 SRR6877288_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 2641MB Feb 12 14:09 SRR6877289_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 2834MB Feb 12 14:09 SRR6877289_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 479MB Feb 9 08:56 SRR6877290_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 498MB Feb 9 08:56 SRR6877290_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1529MB Feb 10 22:16 SRR6877291_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1594MB Feb 10 22:16 SRR6877291_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 769MB Feb 9 09:35 SRR6877292_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 790MB Feb 9 09:35 SRR6877292_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 220MB Feb 12 04:32 SRR6877293.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 224MB Feb 10 16:54 SRR6877294.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 220MB Feb 11 23:57 SRR6877295.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 247MB Feb 10 17:49 SRR6877296.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 317MB Feb 12 05:04 SRR6877297.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1665MB Feb 10 23:31 SRR6877298_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1721MB Feb 10 23:31 SRR6877298_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 801MB Feb 12 04:29 SRR6877299_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 830MB Feb 12 04:29 SRR6877299_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 946MB Feb 10 18:18 SRR6877300_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 973MB Feb 10 18:18 SRR6877300_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1094MB Feb 12 04:59 SRR6877301_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1116MB Feb 12 04:59 SRR6877301_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 156MB Feb 11 01:34 SRR6877302.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 204MB Feb 9 10:09 SRR6877303.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 227MB Feb 9 09:56 SRR6877304.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 265MB Feb 9 10:00 SRR6877305.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1797MB Feb 11 01:25 SRR6877306_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1893MB Feb 11 01:25 SRR6877306_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 182MB Feb 11 01:32 SRR6877307.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 188MB Feb 9 10:06 SRR6877308.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 258MB Feb 11 01:29 SRR6877309.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 312MB Feb 10 19:19 SRR6877310_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 331MB Feb 10 19:19 SRR6877310_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 380MB Feb 12 06:13 SRR6877311_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 398MB Feb 12 06:13 SRR6877311_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 302MB Feb 10 19:10 SRR6877312_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 319MB Feb 10 19:10 SRR6877312_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 887MB Feb 10 19:01 SRR6877313_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 920MB Feb 10 19:01 SRR6877313_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 291MB Feb 12 06:02 SRR6877314_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 307MB Feb 12 06:02 SRR6877314_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 290MB Feb 12 05:09 SRR6877315.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 308MB Feb 10 18:22 SRR6877316.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 206MB Feb 12 05:15 SRR6877317.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 270MB Feb 10 18:26 SRR6877318.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 244MB Feb 12 05:19 SRR6877319.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 196MB Feb 10 18:29 SRR6877320.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 258MB Feb 12 05:23 SRR6877321.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 251MB Feb 10 18:34 SRR6877322.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 610MB Feb 9 09:52 SRR6877323_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 639MB Feb 9 09:52 SRR6877323_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 436MB Feb 10 19:58 SRR6877324_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 463MB Feb 10 19:58 SRR6877324_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 795MB Feb 10 22:40 SRR6877325_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 848MB Feb 10 22:40 SRR6877325_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 354MB Feb 10 19:46 SRR6877326_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 374MB Feb 10 19:46 SRR6877326_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1502MB Feb 12 07:00 SRR6877327_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1573MB Feb 12 07:00 SRR6877327_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 429MB Feb 10 17:01 SRR6877328.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 248MB Feb 11 18:46 SRR6877329.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 291MB Feb 9 13:31 SRR6877330.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 196MB Feb 11 17:24 SRR6877331.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 305MB Feb 9 13:26 SRR6877332.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 158MB Feb 11 17:21 SRR6877333.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 205MB Feb 9 13:22 SRR6877334.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 207MB Feb 11 17:16 SRR6877335.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 176MB Feb 9 13:19 SRR6877336.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 202MB Feb 11 17:13 SRR6877337.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 335MB Feb 9 13:14 SRR6877338.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1504MB Feb 10 17:46 SRR6877339_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1557MB Feb 10 17:46 SRR6877339_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1011MB Feb 10 00:48 SRR6877340_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1059MB Feb 10 00:48 SRR6877340_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 828MB Feb 11 21:57 SRR6877341_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 847MB Feb 11 21:57 SRR6877341_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1149MB Feb 9 14:06 SRR6877342_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1146MB Feb 9 14:06 SRR6877342_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 887MB Feb 11 18:42 SRR6877343_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 909MB Feb 11 18:42 SRR6877343_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 252MB Feb 9 23:50 SRR6877344.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 192MB Feb 11 19:13 SRR6877345.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 957MB Feb 10 00:13 SRR6877346_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 985MB Feb 10 00:13 SRR6877346_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 730MB Feb 11 19:07 SRR6877347_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 711MB Feb 11 19:07 SRR6877347_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 263MB Feb 10 00:17 SRR6877348.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 227MB Feb 11 22:00 SRR6877349.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1036MB Feb 9 12:34 SRR6877350_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1071MB Feb 9 12:34 SRR6877350_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 259MB Feb 11 15:41 SRR6877351.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 212MB Feb 9 12:37 SRR6877352.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1209MB Feb 11 15:37 SRR6877353_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1243MB Feb 11 15:37 SRR6877353_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 168MB Feb 9 11:59 SRR6877354.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 212MB Feb 11 14:43 SRR6877355.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 190MB Feb 9 12:02 SRR6877356.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 214MB Feb 11 14:46 SRR6877357.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 350MB Feb 9 12:48 SRR6877358_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 362MB Feb 9 12:48 SRR6877358_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 264MB Feb 11 16:56 SRR6877359.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 268MB Feb 11 17:06 SRR6877360.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 259MB Feb 9 13:03 SRR6877361.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 216MB Feb 11 17:02 SRR6877362.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 167MB Feb 9 12:59 SRR6877363.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 196MB Feb 11 16:59 SRR6877364.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 175MB Feb 9 12:56 SRR6877365.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 750MB Feb 11 16:52 SRR6877366_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 777MB Feb 11 16:52 SRR6877366_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 337MB Feb 9 12:54 SRR6877367.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 202MB Feb 11 17:10 SRR6877368.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 320MB Feb 9 13:08 SRR6877369.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 811MB Feb 9 10:41 SRR6877370_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 872MB Feb 9 10:41 SRR6877370_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 170MB Feb 11 02:05 SRR6877371.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 199MB Feb 9 10:16 SRR6877372.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 204MB Feb 11 01:37 SRR6877373.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 241MB Feb 9 10:53 SRR6877374.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 246MB Feb 11 02:09 SRR6877375.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 268MB Feb 9 10:49 SRR6877376.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 863MB Feb 11 02:02 SRR6877377_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 869MB Feb 11 02:02 SRR6877377_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 211MB Feb 9 10:56 SRR6877378.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 181MB Feb 11 02:11 SRR6877379.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1032MB Feb 12 05:53 SRR6877380_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1071MB Feb 12 05:53 SRR6877380_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 138MB Feb 11 14:40 SRR6877381.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 198MB Feb 9 11:56 SRR6877382.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 293MB Feb 11 14:38 SRR6877383.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 828MB Feb 9 11:50 SRR6877384_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 861MB Feb 9 11:50 SRR6877384_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1148MB Feb 11 14:28 SRR6877385_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1186MB Feb 11 14:28 SRR6877385_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 216MB Feb 9 11:53 SRR6877386.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 208MB Feb 11 13:59 SRR6877387.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 817MB Feb 9 11:21 SRR6877388_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 844MB Feb 9 11:21 SRR6877388_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 719MB Feb 11 13:56 SRR6877389_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 732MB Feb 11 13:56 SRR6877389_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 214MB Feb 9 11:25 SRR6877390.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1300MB Feb 12 15:09 SRR6877391_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1246MB Feb 12 15:09 SRR6877391_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 183MB Feb 9 10:03 SRR6877392.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 380MB Feb 10 21:02 SRR6877393_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 396MB Feb 10 21:02 SRR6877393_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 246MB Feb 11 22:02 SRR6877394.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 192MB Feb 10 00:50 SRR6877395.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 232MB Feb 11 23:20 SRR6877396.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 236MB Feb 10 15:52 SRR6877397.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 978MB Feb 11 23:17 SRR6877398_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 980MB Feb 11 23:17 SRR6877398_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 963MB Feb 10 16:15 SRR6877399_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1024MB Feb 10 16:15 SRR6877399_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 295MB Feb 11 23:54 SRR6877400.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 281MB Feb 10 16:19 SRR6877401.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1001MB Feb 11 23:50 SRR6877402_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1004MB Feb 11 23:50 SRR6877402_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1035MB Feb 10 16:51 SRR6877403_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1068MB Feb 10 16:51 SRR6877403_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 201MB Feb 16 06:33 SRR6933819_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 231MB Feb 16 06:33 SRR6933819_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 22MB Feb 16 06:33 SRR6933820_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 24MB Feb 16 06:33 SRR6933820_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 204MB Feb 16 06:36 SRR6933821_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 240MB Feb 16 06:36 SRR6933821_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 148MB Feb 16 06:39 SRR6933822_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 174MB Feb 16 06:39 SRR6933822_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 26MB Feb 16 05:24 SRR6933823_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 26MB Feb 16 05:24 SRR6933823_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 54MB Feb 16 05:25 SRR6933824_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 64MB Feb 16 05:25 SRR6933824_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 38MB Feb 16 05:26 SRR6933825_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 43MB Feb 16 05:26 SRR6933825_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 45MB Feb 16 05:27 SRR6933826_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 47MB Feb 16 05:27 SRR6933826_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 44MB Feb 16 05:50 SRR6974014_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 49MB Feb 16 05:50 SRR6974014_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 69MB Feb 16 05:51 SRR6974015_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 77MB Feb 16 05:51 SRR6974015_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 152MB Feb 16 05:53 SRR6974016_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 172MB Feb 16 05:53 SRR6974016_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 87MB Feb 16 05:55 SRR6974017_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 98MB Feb 16 05:55 SRR6974017_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1279MB Feb 16 07:08 SRR866660_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1402MB Feb 16 07:08 SRR866660_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 695MB Feb 16 07:23 SRR866662_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 769MB Feb 16 07:23 SRR866662_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1029MB Feb 16 07:47 SRR866663_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1133MB Feb 16 07:47 SRR866663_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1145MB Feb 16 08:17 SRR866664_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1253MB Feb 16 08:17 SRR866664_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 953MB Feb 16 08:43 SRR866665_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1060MB Feb 16 08:43 SRR866665_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 535MB Feb 16 08:55 SRR866666_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 594MB Feb 16 08:55 SRR866666_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 798MB Feb 16 09:04 SRR867031.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 790MB Feb 16 09:14 SRR867032.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 674MB Feb 16 09:21 SRR867033.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 597MB Feb 16 09:29 SRR867034.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1MB Feb 16 09:30 SRR867035.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 741MB Feb 16 09:50 SRR867036.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 691MB Feb 16 10:01 SRR867037.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 732MB Feb 16 10:09 SRR867038.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 757MB Feb 16 10:18 SRR867039.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1MB Feb 16 10:18 SRR867040.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1056MB Feb 12 21:07 SRR8899212_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1118MB Feb 12 21:07 SRR8899212_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 738MB Feb 12 21:25 SRR8899213_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 789MB Feb 12 21:25 SRR8899213_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1850MB Feb 12 16:42 SRR8899214_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1963MB Feb 12 16:42 SRR8899214_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 682MB Feb 12 17:08 SRR8899215_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 725MB Feb 12 17:08 SRR8899215_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1053MB Feb 12 17:34 SRR8899216_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1112MB Feb 12 17:34 SRR8899216_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 2691MB Feb 12 20:45 SRR8899217_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 2811MB Feb 12 20:45 SRR8899217_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 796MB Feb 12 15:28 SRR8899218_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 858MB Feb 12 15:28 SRR8899218_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 184MB Feb 12 15:33 SRR8899219_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 193MB Feb 12 15:33 SRR8899219_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 328MB Feb 12 15:41 SRR8899220_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 348MB Feb 12 15:41 SRR8899220_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 862MB Feb 12 16:01 SRR8899221_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 915MB Feb 12 16:01 SRR8899221_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 545MB Feb 13 00:02 SRR8899222_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 579MB Feb 13 00:02 SRR8899222_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 627MB Feb 12 21:40 SRR8899223_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 667MB Feb 12 21:40 SRR8899223_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 472MB Feb 12 21:51 SRR8899224_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 506MB Feb 12 21:51 SRR8899224_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 378MB Feb 12 22:00 SRR8899225_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 400MB Feb 12 22:00 SRR8899225_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 555MB Feb 12 22:14 SRR8899226_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 593MB Feb 12 22:14 SRR8899226_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 668MB Feb 12 22:31 SRR8899227_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 714MB Feb 12 22:31 SRR8899227_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 696MB Feb 12 23:25 SRR8899228_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 746MB Feb 12 23:25 SRR8899228_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 288MB Feb 12 23:32 SRR8899229_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 304MB Feb 12 23:32 SRR8899229_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 653MB Feb 12 23:49 SRR8899230_1.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 689MB Feb 12 23:49 SRR8899230_2.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1055MB Feb 9 06:22 SRR957738.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 1125MB Feb 9 06:36 SRR957739.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 729MB Feb 9 06:43 SRR957740.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 959MB Feb 9 06:52 SRR957741.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 756MB Feb 9 07:00 SRR957742.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 765MB Feb 9 07:08 SRR957743.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 867MB Feb 9 07:21 SRR957744.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 860MB Feb 9 07:30 SRR957745.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 668MB Feb 9 07:37 SRR957746.fastq.gz
+-rw-r--r-- 1 cduitama seqbio 174MB Feb 15 20:48 SRR9898613.fastq.gz
+
