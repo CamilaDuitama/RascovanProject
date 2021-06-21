@@ -15,7 +15,8 @@ while read -r line ; do
         accession=${line}
         if [[ $line == "\""* ]]; then
                 accession=$(echo $line | cut -d'"' -f 2)
-        fi
+        	echo "Accession " $accession " is being processed"	
+	fi
 	
 	if [ ! -f $5$accession".out" ]; then
         	if [ -f $3$accession"_2.fastq.gz" ]; then
